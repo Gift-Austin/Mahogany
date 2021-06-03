@@ -1,3 +1,39 @@
 .bg-primary {
     background-color: #4D4D4D !important;
 }
+
+.btn-primary {
+    background-color: #F1592A !important;
+}
+
+.btn-outline-secondary {
+    border-color: #F1592A !important;
+}
+
+.bg-secondary {
+    background-color: #FDECE7 !important;
+}
+
+.dark-link {
+    color: #4D4D4D !important;
+}
+
+.footer-link {
+    list-style-type: none;
+}
+
+.mt-2 {
+    margin-top: 0.8rem !important;
+}
+
+.text-primary {
+    color: #F1592A !important;
+}
+
+.ms-6 {
+    margin-left: 9rem !important;
+}
+
+.ms-7 {
+    margin-left: 12rem !important;
+}
